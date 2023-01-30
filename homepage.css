@@ -1,8 +1,9 @@
 .frame1
 {
-background-color:hsl(147, 34%, 65%);
+background-color:hsl(0, 0%, 4%);
 height:50px;
-width:1440px;
+width: 100%;
+margin:auto;
 padding:0px;
 position:absolute;
 }
@@ -11,6 +12,7 @@ position:absolute;
 color:#ffffff;
 text-align:center;
 vertical-align:text-middle;
+alignment: text-middle;
 font-size:20px;
 font-family:Assistant;
 letter-spacing:1px;
@@ -26,28 +28,30 @@ width:986px;
 
 .frame2
 {
-background-color:#e9cfb1;
+background-color:#111111;
 height:50px;
-width:1440px;
+width:100%;
 padding:0px;
 top:50px;
 position:relative;
+margin:auto;
 }
 .welcometoourstore
 {
-color:#121212;
-text-align:center;
-vertical-align:text-middle;
-font-size:20px;
-font-family:Assistant;
-letter-spacing:1px;
-line-height:17px;
-border-style:hidden;
-outline:none;
-top:18px;
-left:617px;
-position:absolute;
-width:205px;
+    color:#ffffff;
+    text-align:center;
+    vertical-align:text-middle;
+    alignment: text-middle;
+    font-size:20px;
+    font-family:Assistant;
+    letter-spacing:1px;
+    line-height:17px;
+    border-style:hidden;
+    outline:none;
+    left:226px;
+    top:18px;
+    position:absolute;
+    width:986px;
 }
 
 
@@ -85,7 +89,7 @@ letter-spacing:1px;
 line-height:17px;
 border-style:hidden;
 outline:none;
-top:119px;
+top:250;
 left:1276px;
 position:absolute;
 width:133px;
@@ -95,7 +99,7 @@ width:133px;
 height:150px;
 width:150px;
 left:645px;
-top:0px;
+top:-20px;
 position:absolute;
 }
 .home
@@ -109,7 +113,7 @@ letter-spacing:1px;
 line-height:17px;
 border-style:hidden;
 outline:none;
-top:119px;
+top:250;
 left:534px;
 position:absolute;
 width:54px;
@@ -125,7 +129,7 @@ letter-spacing:1px;
 line-height:17px;
 border-style:hidden;
 outline:none;
-top:120px;
+top:250;
 left:694px;
 position:absolute;
 width:103px;
@@ -141,7 +145,7 @@ letter-spacing:1px;
 line-height:17px;
 border-style:hidden;
 outline:none;
-top:119px;
+top:250;
 left:600px;
 position:absolute;
 width:81px;
@@ -157,7 +161,7 @@ letter-spacing:1px;
 line-height:17px;
 border-style:hidden;
 outline:none;
-top:121px;
+top:250;
 left:809px;
 position:absolute;
 width:98px;
