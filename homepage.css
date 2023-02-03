@@ -1,165 +1,1191 @@
-.frame1 {
-    background-color: hsl(0, 0%, 4%);
-    height: 50px;
-    width: 100%;
-    margin: auto;
-    padding: 0px;
-    position: absolute;
+
+html {
+	font-size:62.5%;
 }
-
-.wheneveryoushopfromouronlinestorewedonate3peroftheportionofsalestonon-profitorganizations {
-    color: #ffffff;
-    text-align: center;
-    vertical-align: text-middle;
-    alignment: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    left: 226px;
-    top: 18px;
-    position: absolute;
-    width: 986px;
+* {
+	margin: 0;
+	padding: 0;
 }
-
-
-.frame2 {
-    background-color: #111111;
-    height: 50px;
-    width: 100%;
-    padding: 0px;
-    top: 50px;
-    position: relative;
-    margin: auto;
+ul, li {
+	list-style: none;
 }
-
-.welcometoourstore {
-    color: #ffffff;
-    text-align: center;
-    vertical-align: text-middle;
-    alignment: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    left: 226px;
-    top: 18px;
-    position: absolute;
-    width: 986px;
+input {
+	border: none;
 }
-
-
-.frame3 {
-    background-color: #ffffff;
-    height: 250px;
-    width: 1440px;
-    padding: 0px;
-    top: 100px;
-    position: relative;
+body {
+  width: 144rem;
+}.homepage-8sM {
+  width: 100%;
+  height: 581rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
 }
-
-.frame4 {
-    height: 150px;
-    width: 150px;
-    padding: 0px;
-    left: 645px;
-    top: 61px;
-    position: relative;
+.homepage-8sM .g0a7611-1-6xb {
+  width: 143.9rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 35rem;
+  object-fit: cover;
+  vertical-align: top;
 }
-
-.zoyani_20201 {
-    height: 150px;
-    width: 150px;
+.homepage-8sM .auto-group-cnin-mJ3 {
+  width: 144rem;
+  height: 158.2rem;
+  position: absolute;
+  left: 0;
+  top: 102.4rem;
 }
-
-.login-signup {
-    color: #121212;
-    text-align: center;
-    vertical-align: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    top: 250;
-    left: 1276px;
-    position: absolute;
-    width: 133px;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z {
+  box-sizing: border-box;
+  padding: 10.8rem 0;
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
 }
-
-.zoyani_20202 {
-    height: 150px;
-    width: 150px;
-    left: 645px;
-    top: -20px;
-    position: absolute;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z .frame-5-dd5 {
+  width: 100%;
+  height: 67.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #121212;
 }
-
-.home {
-    color: #121212;
-    text-align: center;
-    vertical-align: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    top: 250;
-    left: 534px;
-    position: absolute;
-    width: 54px;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z .frame-5-dd5 .rectangle-6-v6P {
+  width: 144rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 0;
+  top: 14.5rem;
+  background-color: #ffffff;
 }
-
-.collections {
-    color: #121212;
-    text-align: center;
-    vertical-align: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    top: 250;
-    left: 694px;
-    position: absolute;
-    width: 103px;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z .frame-5-dd5 .about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb {
+  width: 128.3rem;
+  height: 30.6rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 18.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Arial, 'Source Sans Pro';
 }
-
-.aboutus {
-    color: #121212;
-    text-align: center;
-    vertical-align: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    top: 250;
-    left: 600px;
-    position: absolute;
-    width: 81px;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z .frame-5-dd5 .about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb .about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Arial, 'Source Sans Pro';
 }
-
-.contactus {
-    color: #121212;
-    text-align: center;
-    vertical-align: text-middle;
-    font-size: 20px;
-    font-family: Assistant;
-    letter-spacing: 1px;
-    line-height: 17px;
-    border-style: hidden;
-    outline: none;
-    top: 250;
-    left: 809px;
-    position: absolute;
-    width: 98px;
+.homepage-8sM .auto-group-cnin-mJ3 .about-us-D3Z .frame-5-dd5 .about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb .about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Arial, 'Source Sans Pro';
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM {
+  box-sizing: border-box;
+  padding: 6.8rem 13.6rem 12.3rem 13.55rem;
+  width: 144rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 90.8rem;
+  overflow: hidden;
+  background-color: #121212;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .our-best-collections-TQP {
+  margin: 0rem 0rem 3.9rem 0.05rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-esb4-7E3 {
+  margin: 0rem 0rem 0.8rem 0.05rem;
+  width: calc(100% - 0.05rem);
+  display: flex;
+  column-gap: 5.6rem;
+  align-items: center;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-esb4-7E3 .g0a9901-1-PST {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-esb4-7E3 .g0a9901-2-J3d {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-esb4-7E3 .g0a9901-3-2EX {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-esb4-7E3 .g0a9901-4-vqh {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-117g-eFu {
+  display: flex;
+  align-items: center;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-117g-eFu .checks-shirts-Nhh {
+  margin: 0rem 18.3rem 0.2rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-117g-eFu .plain-shirts-aYs {
+  margin-right: 19.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-117g-eFu .linen-shirts-QH1 {
+  margin: 0.2rem 19.6rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .auto-group-cnin-mJ3 .frame-5-dRM .auto-group-117g-eFu .lycra-shirts-pbd {
+  margin-bottom: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-6-VBy {
+  width: 144rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 513.6rem;
+  overflow: hidden;
+  background-color: #121212;
+}
+.homepage-8sM .frame-6-VBy .rectangle-6-CMH {
+  width: 144rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 0;
+  top: 14.5rem;
+  background-color: #ffffff;
+}
+.homepage-8sM .frame-6-VBy .contact-us-zoyani-cielo-arcade-office-no-3-lodha-splendora-bhayanderpada-ghodbunder-road-thane-west-thane-400-615-whatsapp-91-8779859278-just-message-hi-on-this-number-or-click-on-whatsapp-icon-below-to-get-started-email-supportzoyanicom-KB1 {
+  width: 101.1rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 24.65rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Arial, 'Source Sans Pro';
+}
+.homepage-8sM .frame-5-ESP {
+  box-sizing: border-box;
+  padding: 9.6rem 42rem 11.1rem 42rem;
+  width: 144rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 273.3rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 {
+  margin-bottom: 2.2rem;
+  box-sizing: border-box;
+  padding: 2.1rem 1.1rem 2.9rem 1.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .contact-us-yoH {
+  margin-bottom: 3.9rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .auto-group-6jh8-stf {
+  margin: 0rem 1.9rem 3.1rem 1.8rem;
+  width: calc(100% - 3.7rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .auto-group-6jh8-stf .auto-group-youn-wtX {
+  margin-right: 4.1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.85rem 1.2rem 0.85rem;
+  width: 25rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  backdrop-filter: blur(0.2rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .auto-group-6jh8-stf .auto-group-4szs-BgP {
+  box-sizing: border-box;
+  padding: 1rem 0.45rem 1.3rem 0.45rem;
+  width: 25rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  backdrop-filter: blur(0.2rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .auto-group-qtsr-j5d {
+  margin: 0rem 0rem 4.3rem 1.8rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.85rem 1.2rem 0.85rem;
+  width: 25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  backdrop-filter: blur(0.2rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .frame-6-Vt7 .auto-group-kyz6-KpX {
+  margin: 0rem 1.9rem 0rem 1.8rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.85rem;
+  width: calc(100% - 3.7rem);
+  height: 14rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  backdrop-filter: blur(0.2rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ESP .auto-group-auot-W8K {
+  margin-right: 48.6rem;
+  width: 11rem;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb {
+  width: 144rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 353.4rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD {
+  box-sizing: border-box;
+  padding: 2.4rem 3.9rem 3.5rem 3.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .checks-shirts-wN3 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT {
+  width: 100%;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT .g0a9901-1-Y6w {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT .g0a9901-2-csV {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT .g0a9901-3-VRV {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT .g0a9901-4-BJK {
+  margin-bottom: 0.1rem;
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-guuw-poD .auto-group-wk1c-DaT .g0a9901-5-rvF {
+  width: 25rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh {
+  box-sizing: border-box;
+  padding: 4.1rem 19.1rem 6.4rem 3.7rem;
+  width: 100%;
+  height: 17.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-cj9x-rom {
+  margin: 0.2rem 21.3rem 0rem 0rem;
+  width: 6.5rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-cj9x-rom .yellow-AZZ {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-cj9x-rom .zoyani-ezX {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-cj9x-rom .item-899-xVR {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-4w18-Rto {
+  margin: 0rem 18.05rem 0.2rem 0rem;
+  width: 10.4rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-4w18-Rto .ocean-blue-wcF {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-4w18-Rto .zoyani-ELT {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-4w18-Rto .item-899-XaT {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-en3l-dNb {
+  margin: 0.2rem 17.9rem 0rem 0rem;
+  width: 9.3rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-en3l-dNb .navy-blue-LH1 {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-en3l-dNb .zoyani-A19 {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-en3l-dNb .item-899-YnP {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-uruj-oCX {
+  margin: 0rem 17.05rem 0.2rem 0rem;
+  width: 10.75rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-uruj-oCX .blue-yellow-6hR {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-uruj-oCX .zoyani-PwR {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-uruj-oCX .item-899-Uxs {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-sxql-am1 {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  width: 9.95rem;
+  height: calc(100% - 0.3rem);
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-sxql-am1 .white-blue-Gtj {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-sxql-am1 .zoyani-Zcw {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-8Qb .auto-group-httc-Ndh .auto-group-sxql-am1 .item-899-43u {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF {
+  box-sizing: border-box;
+  padding: 0.1rem 10.4rem 0rem 0rem;
+  width: 144rem;
+  height: 67.4rem;
+  position: absolute;
+  left: 0;
+  top: 433.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF {
+  margin-right: 4.85rem;
+  box-sizing: border-box;
+  padding: 3.7rem 7rem 3.7rem 6.4rem;
+  height: 67.4rem;
+  display: flex;
+  column-gap: 3.4rem;
+  align-items: center;
+  background-color: #121212;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-gmsj-DjR {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-gmsj-DjR .g0a9890-1-KnT {
+  margin-bottom: 2.4rem;
+  width: 21.8rem;
+  height: 28.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-gmsj-DjR .g0a9890-3-NEw {
+  width: 21.8rem;
+  height: 28.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-p1mk-rR1 {
+  margin-top: 0.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-p1mk-rR1 .g0a9890-2-nJf {
+  margin-bottom: 2.2rem;
+  width: 21.8rem;
+  height: 28.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-p1mk-rR1 .g0a9890-4-WEf {
+  width: 21.8rem;
+  height: 28.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-okns-d4P {
+  width: 42.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-okns-d4P .item-1-Yx3 {
+  width: 1.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 11.95rem;
+  top: 31.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF .auto-group-h3hc-bCF .auto-group-okns-d4P .g0a9901-1-CFu {
+  width: 42.9rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd {
+  margin: 9.2rem 0rem 9.4rem 0rem;
+  width: 22.05rem;
+  height: calc(100% - 18.6rem);
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .yellow-shirt-AM9 {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .zoyani-eGK {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .item-899-wmD {
+  margin-bottom: 5.1rem;
+  width: 100%;
+  max-width: 9.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.34;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .size-1WB {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-d8wv-hdu {
+  margin: 0rem 0rem 2.3rem 0.55rem;
+  height: 3rem;
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-d8wv-hdu .auto-group-zzml-7Sj {
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-d8wv-hdu .auto-group-he7t-GD9 {
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-d8wv-hdu .auto-group-y94e-8FM {
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-d8wv-hdu .auto-group-yszy-CFD {
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .quantity-ed1 {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-e56i-M1d {
+  margin: 0rem 9.6rem 4.3rem 0.45rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.85rem 1.2rem 0.75rem;
+  width: calc(100% - 10.05rem);
+  display: flex;
+  align-items: center;
+  background-color: #121212;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-e56i-M1d .item--1rs {
+  margin: 0rem 7.9rem 0.4rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.425;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-e56i-M1d .item--gi7 {
+  margin-top: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-nmes-NL3 {
+  margin: 0rem 0rem 1.6rem 0.35rem;
+  width: 21.7rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+}
+.homepage-8sM .frame-5-ieF .auto-group-xcux-tPd .auto-group-xtk4-byV {
+  margin-left: 0.35rem;
+  width: 21.7rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+}
+.homepage-8sM .frame-1-oZm {
+  width: 144rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #121212;
+}
+.homepage-8sM .frame-2-y6s {
+  width: 144rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e9cfb1;
+}
+.homepage-8sM .frame-3-PgP {
+  box-sizing: border-box;
+  padding: 5rem 3.05rem 1.2rem 53.35rem;
+  width: 144rem;
+  height: 25rem;
+  position: absolute;
+  left: 0;
+  top: 10rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+}
+.homepage-8sM .frame-3-PgP .home-4Gj {
+  margin: 0rem 1.1rem 0.2rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP {
+  margin: 0rem 1.15rem 0.1rem 0rem;
+  width: 19.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-r6nw-dUF {
+  margin: 0rem 0.25rem 0.8rem 0rem;
+  width: 15rem;
+  height: 16.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-r6nw-dUF .frame-4-XpX {
+  width: 15rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 1.1rem;
+  overflow: hidden;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-r6nw-dUF .frame-4-XpX .zoyani2020-1-3Xy {
+  width: 15rem;
+  height: 15rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-r6nw-dUF .zoyani2020-2-mD5 {
+  width: 15rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-u21g-G9q {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-u21g-G9q .about-us-CJP {
+  margin: 0rem 1.2rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .auto-group-spdc-8nP .auto-group-u21g-G9q .collections-H4w {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .contact-us-9sq {
+  margin-right: 36.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-8sM .frame-3-PgP .log-in-sign-up-QYs {
+  margin-bottom: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.85;
+  letter-spacing: 0.1rem;
+  color: #121212;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
 }
