@@ -1,215 +1,172 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#000000" />
-  <title>Homepage</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arial%3A400"/>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Assistant%3A400"/>
-  <link rel="stylesheet" href="./styles/homepage.css"/>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zoyani</title>
+  <link rel="stylesheet" href="./homepage.css">
+  <script src="./homepage.js" defer></script>
 </head>
+
 <body>
-<div class="homepage-8sM">
-  <img class="g0a7611-1-6xb" src="./assets/g0a7611-1.png"/>
-  <div class="auto-group-cnin-mJ3">
-    <div class="about-us-D3Z">
-      <div class="frame-5-dd5">
-        <div class="rectangle-6-v6P">
-        </div>
-        <div class="about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb">
-          <span class="about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb-sub-0">
-          About us
-          <br/>
-          
-          <br/>
-          
-          </span>
-          <span class="about-us-founded-in-2020-we-have-thrived-to-be-best-shirt-maker-we-dont-just-make-shirts-we-make-the-worlds-finest-shirts-we-take-pride-in-the-craftsmanship-of-what-we-do-we-are-committed-to-quality-and-never-compromise-on-that-at-zoyani-we-make-clothing-for-creative-thinkers-who-love-to-explore-beyond-that-were-on-a-mission-to-break-down-all-barriers-in-the-fashion-industry-so-that-everyone-can-be-free-to-express-their-uniqueness-through-style-were-fueled-by-a-love-for-the-simple-things-zoyani-has-grown-from-a-need-for-products-without-limitations-weve-always-considered-ourselves-a-shirting-company-at-our-very-core-always-have-always-will-we-always-have-little-something-for-everyone-because-every-soul-on-this-planet-is-totally-worth-it-MSb-sub-1">
-          Founded in 2020, we have thrived to be best shirt maker. We don&#39;t just make shirts, we make the world&#39;s finest shirts.
-          <br/>
-          
-          <br/>
-          We take pride in the craftsmanship of what we do. We are committed to quality and never compromise on that.
-          <br/>
-          
-          <br/>
-          At ZOYANI, we make clothing for creative thinkers who love to explore.
-          <br/>
-          
-          <br/>
-          Beyond that, we’re on a mission to break down all barriers in the fashion industry so that everyone can be free to express their uniqueness through style.
-          <br/>
-          
-          <br/>
-          We’re fueled by a love for the simple things.
-          <br/>
-          
-          <br/>
-          ZOYANI has grown from a need for products without limitations.
-          <br/>
-          
-          <br/>
-          We’ve always considered ourselves a shirting company at our very core. Always have. Always will.
-          <br/>
-          
-          <br/>
-          We always have little something for everyone because every soul on this planet is totally worth it!
-          <br/>
-          
-          </span>
+  <div class="header">
+    <div class="header-message">
+      <p>Whenever you shop from our online store we donate 3% of the portion of sales to non - profit
+        organizations</p>
+    </div>
+    <div class="header-welcome">
+      <p>Welcome to our Store!</p>
+    </div>
+    <div class="header-logo"></div>
+    <div class="header-nav">
+      <ul>
+        <li a href="#">Home</li>
+        <li a href="#">About Us</li>
+        <li a href="#">Collections</li>
+        <li a href="#">Contact us</li>
+      </ul>
+      <!-- Trigger/Open The Modal -->
+      <button id="myBtn" class="Btn">Login/Signup</button>
+
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <form action="action_page.php" method="post">
+            <div class="container">
+              <label for="email"><b>Email</b></label>
+              <input type="email" placeholder="Enter Email" name="email" required>
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required>
+              <button type="submit" class="Btn">Login</button>
+              <button type="button" id="mySignupBtn" class="Btn">Signup</button>
+            </div>
+          </form>
         </div>
       </div>
-    </div>
-    <div class="frame-5-dRM">
-      <div class="our-best-collections-TQP">Our best collections</div>
-      <div class="auto-group-esb4-7E3">
-        <img class="g0a9901-1-PST" src="./assets/g0a9901-1-z9y.png"/>
-        <img class="g0a9901-2-J3d" src="./assets/g0a9901-2.png"/>
-        <img class="g0a9901-3-2EX" src="./assets/g0a9901-3.png"/>
-        <img class="g0a9901-4-vqh" src="./assets/g0a9901-4.png"/>
-      </div>
-      <div class="auto-group-117g-eFu">
-        <div class="checks-shirts-Nhh">Checks Shirts</div>
-        <div class="plain-shirts-aYs">Plain Shirts</div>
-        <div class="linen-shirts-QH1">Linen Shirts</div>
-        <div class="lycra-shirts-pbd">Lycra Shirts</div>
-      </div>
-    </div>
-  </div>
-  <div class="frame-6-VBy">
-    <div class="rectangle-6-CMH">
-    </div>
-    <div class="contact-us-zoyani-cielo-arcade-office-no-3-lodha-splendora-bhayanderpada-ghodbunder-road-thane-west-thane-400-615-whatsapp-91-8779859278-just-message-hi-on-this-number-or-click-on-whatsapp-icon-below-to-get-started-email-supportzoyanicom-KB1">
-    Contact us
-    <br/>
-    
-    <br/>
-    ZOYANI,
-    <br/>
-    
-    <br/>
-    Cielo Arcade, Office no. 3, Lodha Splendora, Bhayanderpada, Ghodbunder Road, Thane West, Thane - 400 615
-    <br/>
-    
-    <br/>
-    WhatsApp: +91 8779859278
-    <br/>
-    
-    <br/>
-    (Just message Hi on this number or click on WhatsApp icon below to get started)
-    <br/>
-    
-    <br/>
-    Email: support@zoyani.com
-    </div>
-  </div>
-  <div class="frame-5-ESP">
-    <div class="frame-6-Vt7">
-      <div class="contact-us-yoH">Contact us</div>
-      <div class="auto-group-6jh8-stf">
-        <div class="auto-group-youn-wtX">Name</div>
-        <div class="auto-group-4szs-BgP">Email*</div>
-      </div>
-      <div class="auto-group-qtsr-j5d">Phone Number</div>
-      <div class="auto-group-kyz6-KpX">Comment</div>
-    </div>
-    <div class="auto-group-auot-W8K">Send</div>
-  </div>
-  <div class="frame-5-8Qb">
-    <div class="auto-group-guuw-poD">
-      <div class="checks-shirts-wN3">Checks Shirts</div>
-      <div class="auto-group-wk1c-DaT">
-        <img class="g0a9901-1-Y6w" src="./assets/g0a9901-1-P4X.png"/>
-        <img class="g0a9901-2-csV" src="./assets/g0a9901-2-66X.png"/>
-        <img class="g0a9901-3-VRV" src="./assets/g0a9901-3-CKd.png"/>
-        <img class="g0a9901-4-BJK" src="./assets/g0a9901-4-QJP.png"/>
-        <img class="g0a9901-5-rvF" src="./assets/g0a9901-5.png"/>
-      </div>
-    </div>
-    <div class="auto-group-httc-Ndh">
-      <div class="auto-group-cj9x-rom">
-        <div class="yellow-AZZ">Yellow </div>
-        <div class="zoyani-ezX">Zoyani</div>
-        <div class="item-899-xVR">₹ 899</div>
-      </div>
-      <div class="auto-group-4w18-Rto">
-        <div class="ocean-blue-wcF">Ocean Blue</div>
-        <div class="zoyani-ELT">Zoyani</div>
-        <div class="item-899-XaT">₹ 899</div>
-      </div>
-      <div class="auto-group-en3l-dNb">
-        <div class="navy-blue-LH1">Navy Blue</div>
-        <div class="zoyani-A19">Zoyani</div>
-        <div class="item-899-YnP">₹ 899</div>
-      </div>
-      <div class="auto-group-uruj-oCX">
-        <div class="blue-yellow-6hR">Blue Yellow</div>
-        <div class="zoyani-PwR">Zoyani</div>
-        <div class="item-899-Uxs">₹ 899</div>
-      </div>
-      <div class="auto-group-sxql-am1">
-        <div class="white-blue-Gtj">White Blue</div>
-        <div class="zoyani-Zcw">Zoyani</div>
-        <div class="item-899-43u">₹ 899</div>
-      </div>
-    </div>
-  </div>
-  <div class="frame-5-ieF">
-    <div class="auto-group-h3hc-bCF">
-      <div class="auto-group-gmsj-DjR">
-        <img class="g0a9890-1-KnT" src="./assets/g0a9890-1.png"/>
-        <img class="g0a9890-3-NEw" src="./assets/g0a9890-3.png"/>
-      </div>
-      <div class="auto-group-p1mk-rR1">
-        <img class="g0a9890-2-nJf" src="./assets/g0a9890-2.png"/>
-        <img class="g0a9890-4-WEf" src="./assets/g0a9890-4.png"/>
-      </div>
-      <div class="auto-group-okns-d4P">
-        <div class="item-1-Yx3">1</div>
-        <img class="g0a9901-1-CFu" src="./assets/g0a9901-1.png"/>
-      </div>
-    </div>
-    <div class="auto-group-xcux-tPd">
-      <div class="yellow-shirt-AM9">Yellow Shirt </div>
-      <div class="zoyani-eGK">Zoyani</div>
-      <div class="item-899-wmD">₹ 899</div>
-      <div class="size-1WB">Size</div>
-      <div class="auto-group-d8wv-hdu">
-        <div class="auto-group-zzml-7Sj">38</div>
-        <div class="auto-group-he7t-GD9">40</div>
-        <div class="auto-group-y94e-8FM">42</div>
-        <div class="auto-group-yszy-CFD">44</div>
-      </div>
-      <div class="quantity-ed1">Quantity</div>
-      <div class="auto-group-e56i-M1d">
-        <div class="item--1rs">-</div>
-        <div class="item--gi7">+</div>
-      </div>
-      <div class="auto-group-nmes-NL3">Add to cart</div>
-      <div class="auto-group-xtk4-byV">Buy it now</div>
-    </div>
-  </div>
-  <div class="frame-1-oZm">Whenever you shop from our online store we donate 3% of the portion of sales to non - profit organizations</div>
-  <div class="frame-2-y6s">Welcome to our Store!</div>
-  <div class="frame-3-PgP">
-    <div class="home-4Gj">Home</div>
-    <div class="auto-group-spdc-8nP">
-      <div class="auto-group-r6nw-dUF">
-        <div class="frame-4-XpX">
-          <img class="zoyani2020-1-3Xy" src="./assets/zoyani2020-1.png"/>
+      <!-- The Modal -->
+      <div id="mySignupModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <form action="action_page.php" method="post">
+            <div class="container">
+              <label for="email"><b>Email</b></label>
+              <input type="email" placeholder="Enter Email" name="email" required>
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required>
+              <button type="submit" class="Btn">Signup</button>
+            </div>
+          </form>
         </div>
-        <img class="zoyani2020-2-mD5" src="./assets/zoyani2020-2.png"/>
-      </div>
-      <div class="auto-group-u21g-G9q">
-        <div class="about-us-CJP">About us</div>
-        <div class="collections-H4w">Collections</div>
       </div>
     </div>
-    <div class="contact-us-9sq">Contact us</div>
-    <div class="log-in-sign-up-QYs">Log in/Sign up</div>
+    <div class="banner"></div>
   </div>
-</div>
+  <div class="body">
+
+    <!-- about us section -->
+
+    <div class="about-us">
+      <h1>About us</h1>
+      <pre class="about-us-text">
+        Founded in 2020, we have thrived to be best shirt maker. We don't just make shirts, we make the world's finest shirts.
+        We take pride in the craftsmanship of what we do. We are committed to quality and never compromise on that.
+        At ZOYANI, we make clothing for creative thinkers who love to explore.
+        Beyond that, we’re on a mission to break down all barriers in the fashion industry so that everyone can be free
+        to express their uniqueness through style.
+        We’re fueled by a love for the simple things.
+        ZOYANI has grown from a need for products without limitations.
+        We’ve always considered ourselves a shirting company at our very core. Always have. Always will.
+        We always have little something for everyone because every soul on this planet is totally worth it!</pre>
+    </div>
+
+    <!-- collections section -->
+
+    <div class="collections">
+      <div class="main-heading">
+        <p>Our best collections
+        </p>
+      </div>
+      <div class="main-collections">
+        <div class="main-collections-card">
+          <div class="main-collections-card-img col1"></div>
+          <div class="main-collections-card-title">Checks Shirts</div>
+        </div>
+        <div class="main-collections-card">
+          <div class="main-collections-card-img col2"></div>
+          <div class="main-collections-card-title">Plain Shirts</div>
+        </div>
+        <div class="main-collections-card">
+          <div class="main-collections-card-img col3"></div>
+          <div class="main-collections-card-title">Linen Shirts</div>
+        </div>
+        <div class="main-collections-card">
+          <div class="main-collections-card-img col4"></div>
+          <div class="main-collections-card-title">Lycra Shirts</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- collection section -->
+
+    <div class="collection">
+      <div class="main">
+        <div class="main-heading">
+          <p>Checks Shirts
+          </p>
+        </div>
+        <div class="main-items">
+          <div class="main-items-card">
+            <div class="main-items-card-img item-col1"></div>
+            <div class="main-items-card-title">
+              Navy Blue<br>
+              Zoyani<br>
+              899
+            </div>
+          </div>
+          <div class="main-items-card">
+            <div class="main-items-card-img item-col2"></div>
+            <div class="main-items-card-title">Ocean Blue<br>
+              Zoyani<br>
+              899</div>
+          </div>
+          <div class="main-items-card">
+            <div class="main-items-card-img item-col3"></div>
+            <div class="main-items-card-title">Navy Blue Pink Indigo<br>
+              Zoyani<br>
+              899</div>
+          </div>
+          <div class="main-items-card">
+            <div class="main-items-card-img item-col4"></div>
+            <div class="main-items-card-title">Blue Yellow<br>
+              Zoyani<br>
+              899
+            </div>
+          </div>
+        </div>
+        <!-- item-section -->
+        <div class="item">
+          <div class="item-images">
+            <div class="small-images">
+              <div class="item-img img1"></div>
+              <div class="item-img img2"></div>
+              <div class="item-img img3"></div>
+              <div class="item-img img4"></div>
+            </div>
+            <div class="item-img-big"></div>
+          </div>
+          <div class="item-info">
+            <p class="item-title">Yellow Shirt</p>
+            <p class="item-price">899</p>
+            <button type="button" class="buy-now">Buy it Now</button>
+          </div>
+        </div>
+        <div class="contact-us"></div>
+      </div>
 </body>
+
+</html>
